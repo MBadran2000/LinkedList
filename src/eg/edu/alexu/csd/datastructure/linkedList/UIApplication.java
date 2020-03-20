@@ -10,8 +10,8 @@ public class UIApplication {
 	 * (coff1, exp1), (coff2, exp2), ..
 	 * ###MAKE SURE TO ADD A SPACE AFTER EACH COMMA###
 	 * examples:
-	 * (2, 1), (0, 2)
-	 * (-1, 2), (0, 1), (-2, 1), (1, 3)
+	 * (2, 1), (1, 2)
+	 * (-1, 2), (2, -2), (-2, 1), (1, 3)
 	 */
 	
 	
